@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Przemysław Pietkun
+- 👋 Hi, I’m Przemysław Pietkun and I'm completely new with all of this, so please....Help me to understand!!!
 - 👀 I’m interested in most of things
 - 🌱 I’m currently learning JavaScript, Html, Css and other kind of stuff 
 - 📫 How to reach me? FB, INSTAGRAM, TWITTER, LINKEDIN, YOUTUBE, DISCORD
